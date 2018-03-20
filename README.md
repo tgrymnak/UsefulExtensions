@@ -1,0 +1,2 @@
+# UsefulExtensions
+.NET useful extensions
